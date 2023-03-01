@@ -6,7 +6,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [C, C++, Java, Python],
+   code: [C, C++, Java, Python - Machine Learning],
    technologies: {
       frontEnd: {
          framework: ["ReactJS"],
