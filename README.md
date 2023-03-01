@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @Shadman1077
-- 👀 I’m interested in .website design and web development..
-- 🌱 I’m currently learning .database management system and trying to build up a website for my institution..
-- 💞️ I’m looking to collaborate on coding/web develpment/digital electric design...
-- 📫 How to reach me on  https://www.facebook.com/sadman.sakib.1420
-   shadman.khan1582@gmail.com ...
+## Hi! I am Shadman Sakeeb
+<p><em>A bachelor student at <a href="http://www.northsouth.edu/">North South University</a>, in Computer Science and Engineering.</br>
+</em></p>
+
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [C, C++, Java, Python],
+   technologies: {
+      frontEnd: {
+         framework: ["ReactJS"],
+      },
+      backEnd: {
+         database: ["MongoDB, MySQL"],
+      },
+      mobile: ["Android"]
+   },
+   currentOccupation: ["Final year student, open for full-time job opportunities"],
+   challenge: "working on myself to become better everyday",
+};
+```
 
 <!---
 Shadman1077/Shadman1077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
