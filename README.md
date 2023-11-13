@@ -1,12 +1,12 @@
 ## Hi! I am Shadman Sakeeb
-<p><em>A bachelor student at <a href="http://www.northsouth.edu/">North South University</a>, in Computer Science and Engineering.</br>
+<p><em>Graduate from <a href="http://www.northsouth.edu/">North South University</a>, in Computer Science and Engineering.</br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [C, C++, Java, Python - Machine Learning,Deep Learning],
+   code: [C, C++, Java, Python - Machine Learning, Deep Learning],
    technologies: {
       frontEnd: {
          framework: ["ReactJS"],
@@ -16,8 +16,8 @@ const aboutMe = {
       },
       mobile: ["Android"]
    },
-   currentOccupation: ["Final year student, open for full-time job opportunities"],
-   challenge: "working on myself to become better everyday",
+   currentOccupation: ["Fresh graduate, open for full-time job opportunities"],
+   challenge: "Working on myself to become better every day",
 };
 ```
 
