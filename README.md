@@ -9,14 +9,14 @@ const aboutMe = {
    code: [C, C++, Java, Python - Machine Learning, Deep Learning],
    technologies: {
       frontEnd: {
-         framework: ["ReactJS"],
+         framework: ["ReactJS","Webflow"],
       },
       backEnd: {
          database: ["MongoDB, MySQL"],
       },
       mobile: ["Android"]
    },
-   currentOccupation: ["Fresh graduate, open for full-time job opportunities"],
+   currentOccupation: ["Web Developer, open for full-time job opportunities"],
    challenge: "Working on myself to become better every day",
 };
 ```
